@@ -1,0 +1,1 @@
+springboot集成rabbitmq，异步操作用户日志，haproxy提供负载均平衡。
